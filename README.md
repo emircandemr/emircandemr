@@ -33,9 +33,6 @@
 <br>
 
 <details>
-<summary>
-:bulb: Github Stats 
-</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=emircandemr&theme=highcontrast">
 </details>
 
