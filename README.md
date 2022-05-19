@@ -2,9 +2,7 @@
   <img src="https://media.giphy.com/media/PQ0VI3S5vqL5pwQQJX/giphy.gif" width="200" height ="200">
 </p>
 
-<p align="center">
 ### Hi there 👋 , Welcome To My Github Profile
-</p>
 
 
 ### Jr. Front-End Developer & Earthquake and Structural Engineer
