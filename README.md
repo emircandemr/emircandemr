@@ -6,7 +6,7 @@
 
 
 <p align="center">
-<font size"1" > Jr. Front-End Developer & Earthquake and Structural Engineer </font>
+<font font-size"1" > Jr. Front-End Developer & Earthquake and Structural Engineer </font>
 </p>
 
 <p align="center">
