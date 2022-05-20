@@ -7,8 +7,10 @@
 
 ### Jr. Front-End Developer & Earthquake and Structural Engineer
 
+<p align="center">
+  <font color="white"> I'm Emircan. I received a bachelor's degree from Sakarya University, Department of Civil Engineering. I will receive my Master's Degree on Earthquake and Structural Engineering from Gebze Technical University in June 2023. But now I am developing myself in the Front-End field. I publish the projects I have done during this development process on this github profile. </font>
 
-<font color="white"> I'm Emircan. I received a bachelor's degree from Sakarya University, Department of Civil Engineering. I will receive my Master's Degree on Earthquake and Structural Engineering from Gebze Technical University in June 2023. But now I am developing myself in the Front-End field. I publish the projects I have done during this development process on this github profile. </font>
+</p>
 
 <br>
 
