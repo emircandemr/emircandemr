@@ -29,6 +29,7 @@
 <img src="https://yt3.ggpht.com/_q52i8bUAEvcb7JR4e-eNTv23y2A_wg5sCz0NC0GrGtcw1CRMWJSOPVHUDh_bngD0q4gMvVeoA=s900-c-k-c0x00ffffff-no-rj" width="30" align="left" >
 <img src="https://www.girisimhaberleri.com/wp-content/uploads/2021/09/slack-nedir.png" width="30" align="left" >
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=emircandemr)
 <br>
 <br>
 
@@ -47,6 +48,7 @@
 </summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emircandemr&langs_count=8&theme=highcontrast">
 </details>
+
 
 
 [Gmail]: emircanndemr@gmail.com
