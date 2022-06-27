@@ -39,8 +39,7 @@
 <summary>
 :bulb: Github Stats 
 </summary>
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=emircandemr&theme=highcontrast"> -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emircandemr&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=emircandemr">
 </details>
 
 <br>
@@ -49,7 +48,8 @@
 <summary>
 :bulb: Most Used Languages
 </summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emircandemr&langs_count=8">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emircandemr&layout=compact">
+
 </details>
 
 
