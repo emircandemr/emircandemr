@@ -16,7 +16,7 @@
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" align="center" />][twitter]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/gmail.svg" align="center" />][Gmail]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="center" />][linkedin]
-[<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" align="center" />][spotify]
+[<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" align="center"/>][spotify]
 
 ### Languages and Tools :
 
