@@ -60,7 +60,7 @@
 
 [twitter]: https://twitter.com/emircandmir
 
-[spotify] : https://open.spotify.com/playlist/5zN9LIKyTlPXVrnaMMGZOU?si=897c3583a6fb472b
+[spotify]: https://open.spotify.com/playlist/5zN9LIKyTlPXVrnaMMGZOU?si=897c3583a6fb472b
 
 
 
