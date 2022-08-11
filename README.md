@@ -16,7 +16,7 @@
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" align="center" />][twitter]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/gmail.svg" align="center" />][Gmail]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="center" />][linkedin]
-
+[<img height="32" width="32" src=""https://play-lh.googleusercontent.com/WB0j9PZGUofgwNbJ8Jm0-v03FIwBMj5Ovi5eso8xaBVTh6FGOyc4xyNjwMkTziKgkBs" align="center" />][spotify]
 
 ### Languages and Tools :
 
@@ -60,6 +60,7 @@
 
 [twitter]: https://twitter.com/emircandmir
 
+[spotify] : https://open.spotify.com/playlist/5zN9LIKyTlPXVrnaMMGZOU?si=897c3583a6fb472b
 
 
 
