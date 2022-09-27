@@ -23,12 +23,11 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=emircandemr)
 <br>
-<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emircandemr&show_icons=true&locale=en&layout=compact" alt="emircandemr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emircandemr&show_icons=true&locale=en" alt="emircandemr" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emircandemr&" alt="emircandemr" /></p>
 
 
